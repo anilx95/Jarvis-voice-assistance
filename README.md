@@ -1,6 +1,6 @@
 # Project_JARVIS
 
-# JARVIC - AI Assistant
+# JARVIS - AI Assistant
 
 JARVIC is a modular, voice-activated AI assistant designed with a futuristic HUD interface. It leverages the Groq API for advanced natural language processing and features a plugin-style skill system for handling various tasks ranging from system operations to weather checking.
 
